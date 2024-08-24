@@ -1,0 +1,9 @@
+Cost of Living: 4 points
+Crime Rate: 3 Points
+Healthcare: 3 Points
+Job Market/ Career Opportunities: 3 Points
+Taxes: 2 Points
+Education: 2 Points
+Quality of Life: 1 Point
+Climate: Slicer
+Politics: Slicer
